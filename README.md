@@ -1,6 +1,6 @@
 ### Olá, sou a Victória! Bem vindo ao meu perfil 👋🏽
 
-- 👩🏽‍💻 Desenvolvedora Full Stack Jr
+- 👩🏽‍💻 Desenvolvedora Back End Jr 
 - 👩‍🎓 Cursando Sistemas de Informação
 
 <div>
