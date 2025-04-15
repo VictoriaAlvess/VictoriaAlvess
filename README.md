@@ -1,7 +1,7 @@
 ### Olá, sou a Victória! Bem vindo ao meu perfil 👋🏽
 
 - 👩🏽‍💻 Desenvolvedora Back End Jr 
-- 👩‍🎓 Cursando Sistemas de Informação
+- 👩‍🎓 Cursando Sistemas de Informação no 8º semestre
 
 <div>
   <a href="https://github.com/VictoriaAlvess">
